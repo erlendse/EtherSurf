@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "Samacsys")(type "KiCad")(uri "C:/Users/Erlend/Documents/SamacSys_PCB_Library/KiCad")(options "")(descr ""))
+  (lib (name "Samacsys")(type "Legacy")(uri "C:/Users/Erlend/Documents/SamacSys_PCB_Library/KiCad/SamacSys_Parts.mod")(options "")(descr ""))
 )
