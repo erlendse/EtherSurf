@@ -1,5 +1,5 @@
-# EtherSurf
+# EtherSurf x kHz - 1.7 GHz reciever
  
-R828D + R820T2 radio scanner frontend
+Experimental scanner with R828D and R820T2
 
-And chip exploration board
+Board to test out various ideas for using common tuner chips.
