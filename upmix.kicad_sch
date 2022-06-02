@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid fa7c5c89-b439-4a9d-acaa-dd60e8c7373c)
+
+  (paper "A3")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "HF_upmixed" (shape input) (at 187.96 60.96 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 229cc7dd-7166-4425-887a-01af03933137)
+  )
+  (hierarchical_label "CLK_FAST" (shape input) (at 63.5 62.23 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid ff3b62c6-7577-4251-a4c4-bb4a0fd2214a)
+  )
+)
